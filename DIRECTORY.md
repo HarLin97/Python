@@ -112,6 +112,7 @@
   * [Cnn Classification](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/cnn_classification.py)
   * [Flip Augmentation](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/flip_augmentation.py)
   * [Harris Corner](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harris_corner.py)
+  * [Horn Schunck](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/horn_schunck.py)
   * [Mean Threshold](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/mean_threshold.py)
   * [Mosaic Augmentation](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/mosaic_augmentation.py)
   * [Pooling Functions](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/pooling_functions.py)
@@ -131,6 +132,7 @@
   * [Molecular Chemistry](https://github.com/TheAlgorithms/Python/blob/master/conversions/molecular_chemistry.py)
   * [Octal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/octal_to_decimal.py)
   * [Prefix Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions.py)
+  * [Prefix Conversions String](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions_string.py)
   * [Pressure Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/pressure_conversions.py)
   * [Rgb Hsv Conversion](https://github.com/TheAlgorithms/Python/blob/master/conversions/rgb_hsv_conversion.py)
   * [Roman Numerals](https://github.com/TheAlgorithms/Python/blob/master/conversions/roman_numerals.py)
@@ -791,6 +793,8 @@
   * Problem 067
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_067/sol1.py)
     * [Sol2](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_067/sol2.py)
+  * Problem 068
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_068/sol1.py)
   * Problem 069
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_069/sol1.py)
   * Problem 070
@@ -835,6 +839,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_101/sol1.py)
   * Problem 102
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_102/sol1.py)
+  * Problem 104
+    * [Sol](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_104/sol.py)
   * Problem 107
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_107/sol1.py)
   * Problem 109
@@ -859,6 +865,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_135/sol1.py)
   * Problem 144
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_144/sol1.py)
+  * Problem 145
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_145/sol1.py)
   * Problem 173
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_173/sol1.py)
   * Problem 174
